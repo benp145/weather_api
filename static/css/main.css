@@ -1,0 +1,27 @@
+.card, input, h2{
+    margin-top: 30px;
+}
+
+form {
+    margin-top: 50px;
+}
+
+#currentCard .card-header {
+    background-color: orangered;
+}
+
+#highCard .card-header {
+    background-color: orange;
+}
+
+#lowCard .card-header {
+    background-color: forestgreen;
+}
+
+#forecastCard .card-header {
+    background-color: greenyellow;
+}
+
+#humidityCard .card-header {
+    background-color: aqua;
+}
